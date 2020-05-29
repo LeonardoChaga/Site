@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+h1 { 
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 50px;
+
+    }
+
+h3{
+    color: white;
+    font-size: 20px;
+}
+
+span{
+    color: white;
+    font-size: 20px;
+
+}
+
+h4{
+    color: white;
+}
+
+p{
+    color: white;
+    top: 1000px;
+    text-align: center;
+    font-size: 15px;
+}
+
+h5{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
